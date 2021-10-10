@@ -1,0 +1,15 @@
+.btnContainer {
+  display: flex;
+  flex-direction: row;
+  padding: 0 10px 0 10px;
+}
+
+.btnContainer button img {
+  width: 20px;
+  height: 20px;
+  padding: 5px;
+}
+
+.btnContainer button span {
+  color: #70b5f9;
+}
